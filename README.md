@@ -1,6 +1,6 @@
 Installation:
 
-  You'll probably only need Python and TkInter, so assuming you're using any linux distro:
+  	You'll probably only need Python and TkInter, so assuming you're using any linux distro:
 		sudo apt install python
 		sudo pip install tkinter
 
