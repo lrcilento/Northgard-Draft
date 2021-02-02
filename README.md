@@ -1,12 +1,14 @@
-Installation:
+# Northgard Draft Tool
+A tool for drafting clans on Northgard.
 
-  	You'll probably only need Python and TkInter, so assuming you're using any linux distro:
-		sudo apt install python
-		sudo pip install tkinter
+## Features
+- [x] Toggle DLCs
+- [x] Customizable amount of clans per player
+- [x] Option to ensure at least one basic clan for everyone
+- [ ] Allow duplicates
 
-Usage:
-
-	Just run it by the app file:
-		python3 app.py
-
-Enjoy!
+## Installation
+```
+pip install -r requirements.txt
+sudo chmod +x start.sh
+```
